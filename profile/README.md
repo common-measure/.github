@@ -5,6 +5,7 @@ Welcome to our GitHub page! We are Common Measure, a research, evaluation, and d
 Our mission is to help communities by **turning complex data into clear stories and actionable insights**. We make good data practice accessible to any organization doing work that maters - whether that’s a nonprofit serving its neighbors, a government agency stewarding public resources, or a company investing in its mission.
 
 🌐 Visit our website at [common-measure.co](https://common-measure.co).
+
 ✉️ Send us an email at [contact@common-measure.co](mailto:contact@common-measure.co)
 
 Visit again soon as we are actively developing our GitHub repositories.
